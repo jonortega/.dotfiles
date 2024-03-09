@@ -1,0 +1,5 @@
+[user]
+	email = jon.ortega.g@gmail.com
+	name = jonortega
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe
