@@ -75,6 +75,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Add Homebrew to PATH
 export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
+export HOMEBREW_NO_AUTO_UPDATE=1
 
 # User configuration
 
