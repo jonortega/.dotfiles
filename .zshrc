@@ -95,13 +95,13 @@ alias la='ls -A'
 alias l='ls -CF'
 alias lx='exa -alh --group-directories-first --icons'
 alias lz='eza -alhMo --total-size --icons --group-directories-first --git --time-style="+%d-%m-Y%y [%R] "'
-
 alias lal='ls -oah'
 
 # Custom defined aliases
 alias nv='nvim'
 alias cat='batcat'
 alias '..'='cd ..'
+alias nf='neofetch'
 alias as='atuin search -i'
 alias dust='dust -DB'
 
